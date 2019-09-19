@@ -1,2 +1,2 @@
-# charlottesville_housing
-11/2017 -- charlottesville housing analysis with visualizations
+# Analysis of Charlottesville Housing Data
+### 11/2017
